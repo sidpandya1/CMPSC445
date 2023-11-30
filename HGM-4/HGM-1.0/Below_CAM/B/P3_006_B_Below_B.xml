@@ -1,0 +1,26 @@
+<annotation>
+	<folder>B</folder>
+	<filename>P3_006.jpg</filename>
+	<path>C:\Users\Brandon L\CMP445\CMPSC445\HGM-4\HGM-1.0\Below_CAM\B\P3_006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>10</ymin>
+			<xmax>353</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>
