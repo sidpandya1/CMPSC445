@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Q</folder>
+	<filename>P1_001.jpg</filename>
+	<path>C:\Users\Brandon L\CMP445\CMPSC445\HGM-4\HGM-1.0\Below_CAM\Q\P1_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>715</width>
+		<height>477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>586</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

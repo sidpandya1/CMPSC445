@@ -1,0 +1,26 @@
+<annotation>
+	<folder>J</folder>
+	<filename>P3_003.jpg</filename>
+	<path>C:\Users\Brandon L\CMP445\CMPSC445\HGM-4\HGM-1.0\Left_CAM\J\P3_003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>J</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>296</ymin>
+			<xmax>836</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>
